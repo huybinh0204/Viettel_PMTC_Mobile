@@ -1,0 +1,21 @@
+{
+    "name": "common",
+    "DropdownAlert": {
+        "DropdownAlert": "0.0.1",
+        "index": "0.0.1"
+    },
+    "Loading": {
+        "LoadingManager": "0.0.1",
+        "LoadingModal": "0.0.1"
+    },
+    "NoInternet": {
+        "index": "0.0.1"
+    },
+    "StoreRating": {
+        "StoreRatingModal": "0.0.1"
+    },
+    "VersionChecker": {
+        "index": "0.0.1"
+    },
+    "BaseAlert": "0.0.1"
+}

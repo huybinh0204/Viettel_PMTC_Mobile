@@ -1,0 +1,1 @@
+This houses static files (e.g images, fonts, colors, strings) used in the application.

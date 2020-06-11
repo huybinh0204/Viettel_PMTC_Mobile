@@ -1,0 +1,38 @@
+import moment from 'moment';
+
+export default {
+  cDocumentsignId: null,
+  adOrgId: 1000000,
+  created: new Date().getTime(),
+  createdby: null,
+  updatedbyName: '',
+  voucherno: '',
+  areacode: 4,
+  titlesign: '',
+  docstatus: 'DR',
+  docstatusName: 'Nháp',
+  approvalstatus: '0',
+  approvalstatusName: 'Chưa ký',
+  signer: null,
+  dateacct: moment(new Date()).format('DD/MM/YYYY'),
+  ispublic: 'N',
+  unitprice: null,
+  amount: 0,
+  adTableId: null,
+  isTemplate: 'N',
+  islock: 'N',
+  isparallelsign: 'N',
+  fwmodelId: 745,
+  isSize: true,
+  cDoctypeId: 2,
+  cDoctypeName: '',
+  cSignerId: 21447,
+  priority: '',
+  description: '',
+  documentcode: '',
+  ispromulgate: 'N',
+  disabled: false,
+  password: '', // not post to api
+  signcode: '', // not post to api, not found in api document, default = voucherno
+  viewOnly: false,
+}

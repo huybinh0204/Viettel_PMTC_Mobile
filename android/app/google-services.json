@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "860115801708",
+    "firebase_url": "https://vt-pmtc.firebaseio.com",
+    "project_id": "vt-pmtc",
+    "storage_bucket": "vt-pmtc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:860115801708:android:1c9ec7620242d2a94aaa49",
+        "android_client_info": {
+          "package_name": "com.viettel.erp.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "860115801708-r7gih6621vm07ghg18sij7dnvr9k2g0i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.viettel.erp.app",
+            "certificate_hash": "732619459fa64896b4fe649162d159dbf72f3169"
+          }
+        },
+        {
+          "client_id": "860115801708-l6i0i2l2s05ffn1nmu8sescmng62p7q4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqF2yBqQ0kPRAc4q_PhF9ifm1CLb7GEJY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "860115801708-l6i0i2l2s05ffn1nmu8sescmng62p7q4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "860115801708-dfg87cdh7ggaokafjt7jpujf3sukl4ee.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.viettel.erp.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

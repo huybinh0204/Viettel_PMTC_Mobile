@@ -1,0 +1,9 @@
+{
+  "name": "configs",
+  "Function": "0.0.1",
+  "index": "0.0.1",
+  "Setting": "0.0.1",
+  "socketIO": "0.0.1",
+  "constants": "0.0.1",
+  "uploadImage": "0.0.1"
+}

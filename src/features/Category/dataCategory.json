@@ -1,0 +1,65 @@
+{
+    "name": "fakeDataDanhMuc",
+    "data": [
+        {
+            "icon": "categoryGeneral",
+            "name": "Danh mục chung",
+            "subItem": [
+                "Danh sách đối tượng",
+                "Danh sách đề xuất đối tượng"
+            ]
+        },
+        {
+            "icon": "accountingRecept",
+            "name": "Kế toán phải thu",
+            "subItem": []
+        },
+        {
+            "icon": "accountantPay",
+            "name": "Kế toán phải trả",
+            "subItem": [
+                "Tờ trình",
+                "Đề nghị thanh toán",
+                "Bảng THTT",
+                "Hóa đơn",
+                "Trình ký Voffice"
+            ]
+        },
+        {
+            "icon": "accountingProperty",
+            "name": "Kế toán tài sản",
+            "subItem": []
+        },
+        {
+            "icon": "accountingGeneral",
+            "name": "Kế toán tổng hợp",
+            "subItem": []
+        },
+        {
+            "icon": "iconReport",
+            "name": "Báo cáo",
+            "subItem": [
+                "Báo cáo thống kê theo số liệu tồn kho và số lượng đơn đặt hàng",
+                "Báo cáo so sánh số lượng bán, doanh số"
+            ]
+        },
+        {
+            "icon": "managementInventory",
+            "name": "Quản lý kho",
+            "subItem": []
+        },
+        {
+            "icon": "iconSetting",
+            "name": "Cài đặt",
+            "subItem": []
+        },
+        {
+            "icon": "iconLogout",
+            "name": "Đăng xuất",
+            "subItem": [
+                "Thay đổi vai trò",
+                "Đăng xuất"
+            ]
+        }
+    ]
+}

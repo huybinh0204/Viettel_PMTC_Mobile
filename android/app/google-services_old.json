@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "828921376134",
+    "firebase_url": "https://test-661c9.firebaseio.com",
+    "project_id": "test-661c9",
+    "storage_bucket": "test-661c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:828921376134:android:665f3b5c834ba61ff95007",
+        "android_client_info": {
+          "package_name": "com.viettel.erp.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "828921376134-4h2tjer9818p8nkfd007oto3ejsr9ihh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBR8t7KtXYuZSn5aOxF1BwqK9nDVRAWWIc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "828921376134-4h2tjer9818p8nkfd007oto3ejsr9ihh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,7 @@
+{
+    "name": "reducers",
+    "locationReducers": "0.0.1",
+    "userReducers": "0.0.1",
+    "socket": "0.0.1",
+    "index": "0.0.1"
+}

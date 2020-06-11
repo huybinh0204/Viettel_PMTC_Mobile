@@ -1,0 +1,11 @@
+{
+    "name": "fakeDataNoti",
+    "data": [
+        {
+            "icon": "iconAvatarNoti",
+            "name": "Danh mục chung",
+            "action": "vừa chuyển trạng thái duyệt sang",
+            "status": "Đã Duyệt"
+        }
+    ]
+}
